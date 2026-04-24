@@ -694,7 +694,7 @@ Khi phát triển hoặc kiểm thử API, cần chú ý:
 
 ## 13. Tác giả
 
-Dự án: **BE Web Travel**
-Tác giả: Nguyễn Trí Dũng
-Zalo: 0378519357
-Mục đích: Xây dựng backend API phục vụ hệ thống website du lịch, khách sạn và đặt phòng.
+- Dự án: **BE Web Travel**
+- Tác giả: Nguyễn Trí Dũng
+- Zalo: 0378519357
+- Mục đích: Xây dựng backend API phục vụ hệ thống website du lịch, khách sạn và đặt phòng.
